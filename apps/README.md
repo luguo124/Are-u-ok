@@ -8,11 +8,11 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
+| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
 | Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adblock.run) |
 | Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adbyby_a53.run) |
-| OpenClash | OpenClash 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash_a53.run) |
+| OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash+Kernel_a53.run) |
 | PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53.run) |
 | ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_a53.run) |
 | VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_a53.run) |
@@ -22,11 +22,8 @@
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN-Server_a53.run) |
 | JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/JD-dailybonus_20211105.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
-| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS_a53.run) |
-| MosDNS v4 | DNS 转发/分流器(使用v4版请卸载干净之前的版本) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS-v4_a53.run) |
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
-| alist v2 | 支持多存储的文件列表程序 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/alist_a53.run) |
-
+| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS-New_a53.run) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
